@@ -10,4 +10,4 @@
 | Название проекта | Описание | Используемые библиотеки | Сложность |
 | :---------------------- | :---------------------- | :---------------------- | :--------------------- |
 | [Восстановление золота из руды](https://github.com/e6ton1set/yandex-practicum/blob/master/projects/gold_recovery.ipynb) | Исследование эффективности обогощения золотом чернового и финального концентратов, обучение и выбор лучшей модели для предсказания коэффициента восстановления  | pandas, sklearn, seaborn, matplotlib, os, numpy, joblib, warnings | Высокая |
-| [История TED](https://github.com/e6ton1set/yandex-practicum/blob/master/projects/gold_recovery.ipynb) | Исследование истории, тематик, авторов популярной площадки для конференций - TED  | tableau | Средняя |
+| [История TED](https://github.com/e6ton1set/yandex-practicum/blob/master/projects/ted.ipynb) | Исследование истории, тематик, авторов популярной площадки для конференций - TED  | tableau | Средняя |
